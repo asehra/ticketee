@@ -14,6 +14,7 @@ end
 group :test do
   gem 'cucumber-rails'
   gem 'capybara'
+  gem 'factory_girl'
 end
 
 # Use unicorn as the web server
